@@ -1,4 +1,4 @@
-#🧠 Web Scraping Acadêmico com Análise de Tópicos e Sentimentos – Foco em Computação Quântica
+🧠 #Web Scraping Acadêmico com Análise de Tópicos e Sentimentos – Foco em Computação Quântica
 Este projeto realiza o web scraping automatizado de artigos científicos do Google Acadêmico com foco em tópicos relacionados à Computação Quântica, seguido de um pipeline completo de tratamento, análise e visualização dos dados coletados.
 
 
